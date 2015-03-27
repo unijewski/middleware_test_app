@@ -46,3 +46,4 @@ end
 gem 'unicorn'
 gem 'rate_limiter', git: 'https://github.com/unijewski/rate_limiter'
 gem 'dalli'
+gem 'rails_12factor', group: :production
