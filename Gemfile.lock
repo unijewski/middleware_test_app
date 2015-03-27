@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/unijewski/rate_limiter
+  revision: 61945a5026bf395b34cc5897544eeba025ee9487
+  specs:
+    rate_limiter (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -158,6 +164,7 @@ DEPENDENCIES
   jquery-rails
   pg
   rails (= 4.2.0)
+  rate_limiter!
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
   spring

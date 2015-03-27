@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'unicorn'
+gem 'rate_limiter', git: 'https://github.com/unijewski/rate_limiter'
